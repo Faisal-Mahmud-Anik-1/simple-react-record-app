@@ -1,9 +1,7 @@
-import React from "react";
-
 function Header() {
   return (
     <header>
-      <h1>My favorite records</h1>
+      <h1>My favorite Records</h1>
     </header>
   );
 }
